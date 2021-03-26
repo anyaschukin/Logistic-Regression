@@ -119,3 +119,6 @@ Python 3.9.1
 * termcolor
 * matplotlib
 * scikit_learn
+<br />
+
+I wrote this project in a team with the awesome [@dfinnis](https://github.com/dfinnis).
